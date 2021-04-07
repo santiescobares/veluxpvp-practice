@@ -1,0 +1,7 @@
+name: Practice
+author: VeluxPvP's Development Team
+version: 1.0
+depend: [Core, ProtocolLib, NametagEdit, LunarClient-API]
+softdepend: [ViaVersion, ProtocolSupport]
+load: POSTWORLD
+main: club.veluxpvp.practice.Practice
